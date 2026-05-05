@@ -1,0 +1,5 @@
+action,technique_id,technique_name
+failed_login,T1110,Brute Force
+powershell,T1059,Command Execution
+file_access,T1005,Data from Local System
+login,T1078,Valid Accounts
